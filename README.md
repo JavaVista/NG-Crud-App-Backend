@@ -13,5 +13,8 @@ Fist Install, build and start Strapi with the following:
 ```bash
 cd backend
 yarn
-yarn start
+yarn develop
 ```
+* Launch http://localhost:1337/admin
+* Create an login for you Admin Account
+* On the Strapi console navigate to Roles and Permissions and provide the Public role and enable access to all endpoints
