@@ -1,6 +1,8 @@
-## NG Crud App 
+## NG Crud App Backend
 
 A simple CRUD app using Angular CLI and [Strapi](https://strapi.io/ ) as the backend
+
+You will find the Frontend at the following [Repo](https://github.com/JavaVista/NG-Crud-App-Frontend)
 
 Design Documentation [Crud App Design](CrudAppDesign.docx)
 
@@ -13,22 +15,3 @@ cd backend
 yarn
 yarn start
 ```
-## Frontend  
-
-2nd Install, build and start Angular with the following:
-
-```bash
-cd frontend
-npm install
-ng serve --open
-```
-
-This frontend was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
-
-### Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
